@@ -1,5 +1,5 @@
 # networking
-A server and client program written in Java where you can send messages back and forth.
+Server and client programs written in Java where you can send messages back and forth.
 
 + Make sure you can run .jar programs from your command line, there is no GUI set up for these just yet! +
 
