@@ -22,3 +22,8 @@ the IP address 192.168.0.1, then they will connect, and the server will
 start the conversation. Pressing enter sends the messages, while sending 
 TAB switches the typer and sending ` cancels the conversation \ 
 connection altogether.
+
+VERSION NOTES:
+
+1.1:
+  Really only bug fixes, added the version number
